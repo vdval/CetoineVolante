@@ -1,6 +1,6 @@
 
 gem "github-pages", group: :jekyll_plugins
-title: Ce que je peux faire pour vous
+title: Ce que je peux faire en info
 description: Presque un CV, du dev info pur jus
 show_downloads: "true"
 theme:
