@@ -1,0 +1,6 @@
+theme: 
+gem "github-pages", group: :jekyll_plugins
+title: Ce que je peux faire pour vous
+description: Presque un CV, du dev info pur jus
+show_downloads: "true"
+theme:
