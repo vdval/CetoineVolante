@@ -12,7 +12,7 @@ HTML5 - CSS3 - Bootstrap ou pas - Javascript pour dynamiser les sites internet :
 Angular à partir de la version 8 : je pratique toutes les semaines et je suis en mise à jour, mes outils sont Node.js et Angular CLI, Visual Studio Code.
 Java : je pratique toutes les semaines et je suis en mise à jour, mes outils sont IntelliJ avec JavaFX, AWT, swing. Je peux aussi coder sur Visual Studio Code.
 
-VBA : un vieux langage bien utile, qu'on trouve en informatique de gestion, pour la bureautique mais pas seulement. On le trouve dans l'industrie pour des base ACCESS. Je travaille essentiellement avec ACCESS 2010 et 2019. Je n'ai pas pratiqué depuis quelques mois.
+VBA : un vieux langage bien utile, qu'on trouve en informatique de gestion, pour la bureautique mais pas seulement. On le trouve dans l'industrie pour des bases ACCESS assez pointues. Je travaille essentiellement avec ACCESS 2010 et 2019. Je n'ai pas pratiqué depuis quelques mois.
 
 Markdown : un langage de description léger et facile à utiliser. Je le pratique tous les jours pour les notices ou pour des sites internet vitrines sur GitHub qui traduit ses pages markdown en HTML.
 
@@ -35,6 +35,7 @@ Syntax highlighted code block
 2. List : mon niveau de diplôme, BAC + 4 environ. 
 
 **Bold** and _Italic_ and `Code` text
+**Me joindre ?** _envoyez un message sur mon email d'ici en me laissant vos coordonnées_ `Je vous recontacterai, n'oubliez pas de me laisser votre Email`
 
 [Link](url) and ![Image](src)
 ```
