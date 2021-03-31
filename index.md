@@ -8,6 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### CV - Mes spécialités en développement
 
+- Markdown : un langage de description léger et facile à utiliser. Je le pratique tous les jours pour les notices ou pour des sites internet vitrines sur GitHub. Je peux vous concevoir-réaliser un site en Markdown sur GitHub. Contactez-moi.
 - HTML5 - CSS3 et Bootstrap : je pratique chaque jour, mes outils sont Visual Studio Code, vi, GitHub, git, GitLab, Bitbucket, Terminal Windows, Git Bash.
 - HTML5 - CSS3 - Bootstrap ou pas - Javascript pour dynamiser les sites internet : je pratique toutes les semaines et je suis en mise à jour
 - Angular à partir de la version 8 : je pratique toutes les semaines et je suis en mise à jour, mes outils sont Node.js et Angular CLI, Visual Studio Code.
@@ -15,7 +16,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - VBA : un vieux langage bien utile, qu'on trouve en informatique de gestion, pour la bureautique mais pas seulement. On le trouve dans l'industrie pour des bases ACCESS assez pointues. Je travaille essentiellement avec ACCESS 2010 et 2019. Je n'ai pas pratiqué depuis quelques mois.
 
-- Markdown : un langage de description léger et facile à utiliser. Je le pratique tous les jours pour les notices ou pour des sites internet vitrines sur GitHub qui traduit ses pages markdown en HTML. Je peux vous concevoir-réaliser un site en Markdown sur GitHub. Contactez-moi.
 
 - Anglais : incontournable, je parle avec un accent effroyable mais on me comprend, je le lis correctement, heureusement. J'ai travaillé uniquement en anglais.
 - English : one undestands me. I think. ;) I read it.
