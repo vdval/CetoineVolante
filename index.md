@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages - Bienvenue sur GitHub Pages - CV
+## Welcome to GitHub Pages - Bienvenue sur GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/vdval/CetoineVolante/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,7 @@ Vous pouvez utiliser l'éditeur sur GitHub [editor on GitHub](https://github.com
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Mes spécialités en développement
+### CV - Mes spécialités en développement
 
 - HTML5 - CSS3 et Bootstrap : je pratique chaque jour, mes outils sont Visual Studio Code, vi, GitHub, git, GitLab, Bitbucket, Terminal Windows, Git Bash.
 - HTML5 - CSS3 - Bootstrap ou pas - Javascript pour dynamiser les sites internet : je pratique toutes les semaines et je suis en mise à jour
