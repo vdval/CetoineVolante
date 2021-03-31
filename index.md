@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages - Bienvenue sur GitHub Pages
+## Welcome to GitHub Pages - Bienvenue sur GitHub Pages - CV
 
 You can use the [editor on GitHub](https://github.com/vdval/CetoineVolante/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
 Vous pouvez utiliser l'éditeur sur GitHub [editor on GitHub](https://github.com/vdval/CetoineVolante/edit/gh-pages/index.md) pour maintenir et avoir une aperçu du contenu de votre site en Markdown.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -14,9 +15,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - VBA : un vieux langage bien utile, qu'on trouve en informatique de gestion, pour la bureautique mais pas seulement. On le trouve dans l'industrie pour des bases ACCESS assez pointues. Je travaille essentiellement avec ACCESS 2010 et 2019. Je n'ai pas pratiqué depuis quelques mois.
 
-- Markdown : un langage de description léger et facile à utiliser. Je le pratique tous les jours pour les notices ou pour des sites internet vitrines sur GitHub qui traduit ses pages markdown en HTML.
+- Markdown : un langage de description léger et facile à utiliser. Je le pratique tous les jours pour les notices ou pour des sites internet vitrines sur GitHub qui traduit ses pages markdown en HTML. Je peux vous concevoir-réaliser un site en Markdown sur GitHub. Contactez-moi.
 
-- Anglais : incontournable, je parle avec un accent effroyable mais on me comprend, je le lis couramment, heureusement.
+- Anglais : incontournable, je parle avec un accent effroyable mais on me comprend, je le lis correctement, heureusement. J'ai travaillé uniquement en anglais.
 - English : one undestands me. I think. ;) I read it.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
