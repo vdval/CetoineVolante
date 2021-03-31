@@ -8,10 +8,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### CV - Mes spécialités en développement
 
-- Markdown : un langage de description léger et facile à utiliser. Je le pratique tous les jours pour les notices ou pour des sites internet vitrines sur GitHub. Je peux vous concevoir-réaliser un site en Markdown sur GitHub. Contactez-moi.
+- Markdown : un langage de description léger et facile à utiliser. Je le pratique tous les jours pour les documentations ou pour des sites internet vitrines sur GitHub. Je peux vous concevoir-réaliser un site en Markdown sur GitHub. Contactez-moi.
+
 - HTML5 - CSS3 et Bootstrap : je pratique chaque jour, mes outils sont Visual Studio Code, vi, GitHub, git, GitLab, Bitbucket, Terminal Windows, Git Bash.
-- HTML5 - CSS3 - Bootstrap ou pas - Javascript pour dynamiser les sites internet : je pratique toutes les semaines et je suis en mise à jour
+
+- HTML5 - CSS3 - Bootstrap ou pas - Javascript pour dynamiser les sites internet : je pratique toutes les semaines et je suis en mise à jour.
+
 - Angular à partir de la version 8 : je pratique toutes les semaines et je suis en mise à jour, mes outils sont Node.js et Angular CLI, Visual Studio Code.
+
 - Java : je pratique toutes les semaines et je suis en mise à jour, mes outils sont IntelliJ avec JavaFX, AWT, swing. Je peux aussi coder sur Visual Studio Code.
 
 - VBA : un vieux langage bien utile, qu'on trouve en informatique de gestion, pour la bureautique mais pas seulement. On le trouve dans l'industrie pour des bases ACCESS assez pointues. Je travaille essentiellement avec ACCESS 2010 et 2019. Je n'ai pas pratiqué depuis quelques mois.
@@ -33,7 +37,7 @@ Syntax highlighted code block
 - List : je suis cool :)
 
 1. Numbered : j'ai 25 ans d'expérience en développement Web, paramétrage CMS et autres sur le net. Ce que je préfère ? La technique.
-2. List : mon niveau de diplôme, BAC + 4 environ. 
+2. List : mon niveau de diplôme, BAC + 4. 
 
 **Bold** and _Italic_ and `Code` text
 **Me joindre ?** _envoyez un message sur mon email d'ici en me laissant vos coordonnées_ `Je vous recontacterai, n'oubliez pas de me laisser votre Email`
