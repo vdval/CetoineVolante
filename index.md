@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/vdval/CetoineVolante/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Vous pouvez utiliser l'éditeur sur GitHub [editor on GitHub](https://github.com/vdval/CetoineVolante/edit/gh-pages/index.md) pour maintenir et avoir une aperçu du contenu de votre site en Markdown.
+Vous pouvez utiliser l'éditeur sur GitHub [editor on GitHub](https://github.com/vdval/CetoineVolante/edit/gh-pages/index.md) pour maintenir et avoir un aperçu du contenu de votre site en Markdown.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -35,7 +35,7 @@ Syntax highlighted code block
 ## Header 2 Titre 2
 ### Header 3 Titre 3
 
-- Bulleted : j'ai 33 ans d'expérience, je n'ai pas fait que du développement mais j'y reviens toujours.
+- Bulleted : j'ai 33 ans d'expérience, je n'ai pas fait que du développement en continu mais j'y reviens toujours.
 - List : je suis cool :)
 
 1. Numbered : j'ai 25 ans d'expérience en développement Web, paramétrage CMS et autres sur le net. Ce que je préfère ? La technique.
