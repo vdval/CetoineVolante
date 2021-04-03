@@ -22,8 +22,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - VBA : un vieux langage bien utile, qu'on trouve en informatique de gestion, pour la bureautique mais pas seulement. On le trouve dans l'industrie pour des bases ACCESS assez pointues. Je travaille essentiellement avec ACCESS 2010 et 2019. Je n'ai pas pratiqué depuis quelques mois.
 
+- MongoDB et Node.js, Express.js : mise à jour en cours (back end).
 
-- Anglais : incontournable, je parle avec un accent effroyable mais on me comprend, je le lis correctement, heureusement. J'ai travaillé uniquement en anglais.
+
+- Anglais : incontournable, je parle avec un accent effroyable mais on me comprend, je le lis correctement, heureusement. J'ai déjà travaillé uniquement en anglais.
 - English : one undestands me. I think. ;) I read it.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
