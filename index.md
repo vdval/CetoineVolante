@@ -10,8 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### CV - Mes spécialités en développement
 
 
-- Markdown : un langage de description léger et facile à utiliser. Je le pratique tous les jours pour les documentations ou pour des sites internet vitrines sur GitHub. **Je peux vous concevoir-réaliser un site en Markdown sur GitHub. Contactez-moi via mon email (profil, email).**
-
+- Markdown : un langage de description léger et facile à utiliser. Je le pratique tous les jours pour les documentations ou pour des sites internet vitrines sur GitHub. 
 - HTML5 - CSS3 et Bootstrap : je pratique chaque jour, mes outils sont Visual Studio Code, vi, GitHub, git, GitLab, Bitbucket, Terminal Windows, Git Bash.
 
 - HTML5 - CSS3 - Bootstrap ou pas - Javascript pour dynamiser les sites internet : je pratique toutes les semaines et je suis en mise à jour.
