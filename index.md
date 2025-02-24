@@ -9,19 +9,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### CV - Mes spécialités en développement
 
+Je suis plus souvent sur le frontend du site internet ou de l'application. Le backend est plus rare dans ma pratique. De fait, j'ai plus ou moins décidé de me spécialiser. Je préfère faire moins de choses et les faire bien que tout couvrir en restant à la surface (cela n'engage que moi et ma façon de fonctionner).
 
-- Markdown : un langage de description léger et facile à utiliser. Je le pratique tous les jours pour les documentations ou pour des sites internet vitrines sur GitHub. 
-- HTML5 - CSS3 et Bootstrap : je pratique chaque jour, mes outils sont Visual Studio Code, vi, GitHub, git, GitLab, Bitbucket, Terminal Windows, Git Bash.
+- Markdown : un langage de description léger et facile à utiliser. Je le pratique régulièrement pour les documentations ou pour des sites internet vitrines sur GitHub. 
+- HTML5 - CSS3 et Bootstrap : je pratique chaque semaine au minimum, mes outils sont Visual Studio Code, vi, GitHub, git, GitLab, Bitbucket, Terminal Windows, Git Bash.
 
 - HTML5 - CSS3 - Bootstrap ou pas - Javascript pour dynamiser les sites internet : je pratique toutes les semaines et je suis en mise à jour.
+- React : reprise en cours en février 2025. Mes bacs à sable sont visible sur Github, le plus souvent en public.
 
-- Angular à partir de la version 8 : je pratique toutes les semaines et je suis en mise à jour, mes outils sont Node.js et Angular CLI, Visual Studio Code.
+- Angular à partir de la version 8 : mise à jour prévue plus tard, mes outils sont Node.js et Angular CLI, Visual Studio Code. Je le pratique rarement.
 
-- Java : je pratique toutes les semaines et je suis en mise à jour, mes outils sont IntelliJ avec JavaFX, AWT, swing. Je peux aussi coder sur Visual Studio Code.
+- Java : je pratique rarement, mes outils sont IntelliJ avec JavaFX, AWT, swing. Je peux aussi coder sur Visual Studio Code.
 
-- VBA : un vieux langage bien utile, qu'on trouve en informatique de gestion, pour la bureautique mais pas seulement. On le trouve dans l'industrie pour des bases ACCESS assez pointues. Je travaille essentiellement avec ACCESS 2010 et 2019. Je n'ai pas pratiqué depuis quelques mois.
+- VBA : un vieux langage bien utile, qu'on trouve en informatique de gestion, pour la bureautique mais pas seulement. On le trouve dans l'industrie pour des bases ACCESS assez pointues. Je travaille essentiellement avec ACCESS 2010 et 2019. Je n'ai pas pratiqué depuis quelques années.
 
-- MongoDB et Node.js, Express.js : mise à jour en cours (back end).
+- MongoDB et Node.js, Express.js : mise à jour prévue plus tard (back end).
+- Le référencement naturel (en mise à jour) et le design d'interface (formation BAC+3 qui commence le 10 mars 2025) se greffent sur les langages pour permettre la conception des produits demandés, sites web, applications ou autre produit industriel.
 
 
 - Anglais : incontournable, je parle avec un accent effroyable mais on me comprend, je le lis correctement, heureusement. J'ai déjà travaillé uniquement en anglais.
