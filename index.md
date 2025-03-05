@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages - Bienvenue sur GitHub Pages - 05/03/2025
 
+Mon CV en ligne en markdown : https://vdval.github.io/CetoineVolante/
+
 You can use the [editor on GitHub](https://github.com/vdval/CetoineVolante/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Vous pouvez utiliser l'éditeur sur GitHub [editor on GitHub](https://github.com/vdval/CetoineVolante/edit/gh-pages/index.md) pour maintenir et avoir un aperçu du contenu de votre site en Markdown.
